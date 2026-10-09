@@ -1,0 +1,78 @@
+{
+  "validationDate": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "client": "Codex 本地 MCP 联调脚本，非 WorkBuddy",
+  "store": {
+    "name": "麦当劳深圳金丰城餐厅",
+    "storeCode": "1421053",
+    "beType": 1,
+    "orderType": 1
+  },
+  "menuEntries": 119,
+  "couponQueryStatus": "成功，返回空列表",
+  "quotes": [
+    {
+      "id": "budget-chicken-single",
+      "label": "麦辣鸡腿汉堡+中薯条+锡兰红茶（单点）",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:54",
+      "itemCount": 3,
+      "message": "请求成功",
+      "price": 4750,
+      "productPrice": 4750,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    },
+    {
+      "id": "budget-chicken-combo",
+      "label": "麦辣鸡腿汉堡+中薯条+锡兰红茶（三件套换茶）",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:54",
+      "itemCount": 3,
+      "message": "请求成功",
+      "price": 3500,
+      "productPrice": 3500,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    },
+    {
+      "id": "budget-cheese-single",
+      "label": "双层吉士汉堡+锡兰红茶（单点）",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:55",
+      "itemCount": 2,
+      "message": "请求成功",
+      "price": 3450,
+      "productPrice": 3450,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    },
+    {
+      "id": "budget-cheese-combo",
+      "label": "双层吉士汉堡+锡兰红茶（人气经典随心配）",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:55",
+      "itemCount": 2,
+      "message": "请求成功",
+      "price": 1490,
+      "productPrice": 1490,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    }
+  ],
+  "ordersCreated": 0,
+  "couponsClaimed": 0,
+  "workbuddyTested": false
+}
