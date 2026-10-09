@@ -2,9 +2,9 @@
 name: "mcd-budget-buddy"
 display_name: "麦当劳穷鬼助手"
 display_name_en: "McDonald’s Budget Buddy"
-description: "当用户想省钱、薅优惠、低预算搭配麦当劳或保留爱吃餐品比较最低实付时使用；以实时门店、优惠券及官方试算推荐可解释的省钱组合。"
-description_zh: "当用户想省钱、薅优惠、低预算搭配麦当劳或保留爱吃餐品比较最低实付时使用；以实时门店、优惠券及官方试算推荐可解释的省钱组合。"
-description_en: "Find affordable McDonald’s meal combinations while keeping favorite foods and verifying current prices."
+description: "嘴可以馋，钱不能白花。你的麦门省钱搭子，专治“这个想吃，那个也想吃，但预算只有这么多”。想省钱、薅优惠、低预算搭配麦当劳时，帮你翻菜单、比套餐、算实付：爱吃的尽量留下，能省的绝不放过。"
+description_zh: "嘴可以馋，钱不能白花。你的麦门省钱搭子，专治“这个想吃，那个也想吃，但预算只有这么多”。想省钱、薅优惠、低预算搭配麦当劳时，帮你翻菜单、比套餐、算实付：爱吃的尽量留下，能省的绝不放过。"
+description_en: "Big cravings, small budget. Your McDonald’s bargain buddy compares menus, meal deals and eligible discounts, then checks the actual total—keeping your favorites while hunting down the savings."
 version: "0.1.0"
 author: "xiexin"
 user-invocable: true
